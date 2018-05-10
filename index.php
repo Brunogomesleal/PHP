@@ -1,0 +1,6 @@
+<?php
+
+
+echo "<STRONG>ESCREVENDO MEU PRIMEIRO CODIGO EM PHP!!! </STRONG>";
+
+?>
